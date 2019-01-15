@@ -1,2 +1,5 @@
 # Deep_learning
-various deep learning neural network implemented in python
+
+Various deep learning neural network implemented in Theano (It's required by course staff for Deep learning course CS-E4890). 
+
+

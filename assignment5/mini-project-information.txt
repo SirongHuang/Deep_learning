@@ -1,0 +1,32 @@
+1) Insert below the student numbers and names of the 1-3 group members, one per line
+
+361150 Sirong Huang  
+
+2) Write below the name of your group
+
+Detection of 100 objects using Convolutional Neural Networks
+
+3) Write below a short description of the machine learning problem you plan to address
+
+Object detection has become an increasingly important task with wide varieties of promising applications such as self-driving cars, image searching, face detection etc. The problem in this study is to implement CNNs with various configurations to recognize 100 different object classes from a labeled image database and compare the results with previous researches.
+
+4) Write below what deep learning approach(es) you plan to employ in your project
+
+Convolutional neural network with various settings.
+
+5) Write below what deep learning software you plan to use in your project
+
+Python. Python libraries: keras, tensorflow, etc.
+
+6) Write below what computational resources you plan to utilize in your project
+
+GPU: GTX 970 4gb, CPU:i5-2500k
+
+7) Write below what kind of data you plan to use in your experiments
+
+CIFAR-100 contains 100 object classes, each containing 600 images. The 100 subclasses are grouped into 20 superclasses.  
+
+8) Write below what are the reference methods and results you plan to compare against
+
+CNN with exponential linear units - 75.72% accuracy
+Fractional max pooling - 73.61% accuracy
